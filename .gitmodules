@@ -1,9 +1,9 @@
 [submodule "AnsiblePlaybooks"]
 	path = AnsiblePlaybooks
 	url = https://github.com/maker2413/AnsiblePlaybooks.git
-[submodule "CloudFormationTemplates"]
-	path = CloudFormationTemplates
-	url = https://github.com/maker2413/CloudFormationTemplates.git	
+[submodule "CloudFormation"]
+	path = CloudFormation
+	url = https://github.com/maker2413/CloudFormation.git
 [submodule "Website"]
 	path = Website
 	url = https://github.com/maker2413/Website.git
