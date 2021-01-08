@@ -7,3 +7,6 @@
 [submodule "Website"]
 	path = Website
 	url = https://github.com/maker2413/Website.git
+[submodule "Terraform"]
+	path = Terraform
+	url = https://github.com/maker2413/Terraform.git
