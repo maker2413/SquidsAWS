@@ -1,12 +1,3 @@
-[submodule "AnsiblePlaybooks"]
-	path = AnsiblePlaybooks
-	url = https://github.com/maker2413/AnsiblePlaybooks.git
-[submodule "CloudFormation"]
-	path = CloudFormation
-	url = https://github.com/maker2413/CloudFormation.git
-[submodule "Website"]
-	path = Website
-	url = https://github.com/maker2413/Website.git
 [submodule "Terraform"]
 	path = Terraform
 	url = https://github.com/maker2413/Terraform.git
