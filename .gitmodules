@@ -1,3 +1,12 @@
 [submodule "Terraform"]
 	path = AWSTerraform
 	url = https://github.com/maker2413/AWSTerraform.git
+[submodule "HetznerTerraform"]
+	path = HetznerTerraform
+	url = https://github.com/maker2413/HetznerTerraform.git
+[submodule "Olympus"]
+	path = Olympus
+	url = git@github.com:maker2413/Olympus
+[submodule "OlympusCloud"]
+	path = OlympusCloud
+	url = git@github.com:maker2413/OlympusCloud.git
