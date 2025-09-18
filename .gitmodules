@@ -1,5 +1,5 @@
 [submodule "Terraform"]
-	path = AWSTerraform
+	path = AWSInfra
 	url = git@github.com:maker2413/AWSInfra
 [submodule "HetznerTerraform"]
 	path = HetznerInfra
